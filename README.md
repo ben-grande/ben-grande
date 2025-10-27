@@ -2,7 +2,8 @@ Dear reader,
 
 You've found me.
 
-- Email: ben.grande.b@gmail.com
+- Personal e-mail: ben.grande.b@gmail.com
+- ITL (Qubes) e-mail: ben@invisiblethingslab.com
 
 I use separate PGP subkeys for different purposes:
 
